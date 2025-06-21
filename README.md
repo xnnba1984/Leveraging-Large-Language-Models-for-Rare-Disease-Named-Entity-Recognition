@@ -1,6 +1,6 @@
 # Leveraging-Large-Language-Models-for-Rare-Disease-Named-Entity-Recognition
 
-This repository contains the code and data that supports all results in the manuscript "Leveraging Large Language Models for Rare Disease Named Entity Recognition".
+This repository contains the code that supports all results in the manuscript "Leveraging Large Language Models for Rare Disease Named Entity Recognition".
 
 File | Purpose | Key outputs
 -----|-----|-----|
