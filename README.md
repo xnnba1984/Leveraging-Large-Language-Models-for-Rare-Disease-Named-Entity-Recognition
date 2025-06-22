@@ -1,6 +1,6 @@
 # Leveraging Large Language Models for Rare Disease Named Entity Recognition
 
-This repository contains the code that supports all results in the manuscript "Leveraging Large Language Models for Rare Disease Named Entity Recognition". The data used in this study can be downloaded [here](https://github.com/isegura/NLP4RARE-CM-UC3M) (RareDis corpus) and [here](https://www.orphadata.com/data/xml/en_product1.xml) (Orphanet database).
+This repository contains the code that supports all results in the manuscript "Leveraging Large Language Models for Rare Disease Named Entity Recognition". The data used in this study can be downloaded [here](https://github.com/isegura/NLP4RARE-CM-UC3M) (RareDis corpus) and [here](https://www.orphadata.com/orphanet-scientific-knowledge/) (Orphanet database).
 
 File | Purpose | Key outputs
 -----|-----|-----|
